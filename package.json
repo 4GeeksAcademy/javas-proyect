@@ -32,7 +32,11 @@
   "homepage": "https://github.com/4GeeksAcademy/vanillajs-hello#readme",
   "dependencies": {
     "@popperjs/core": "^2.10.1",
-    "bootstrap": "^5.1.1"
+    "and": "^0.0.3",
+    "bootstrap": "^5.1.1",
+    "npm": "^10.9.0",
+    "run": "^1.5.0",
+    "start": "^5.1.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.3",
